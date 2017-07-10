@@ -1,4 +1,4 @@
-#CA 3 by Titi Badiya 10052625.
+
 #This is a program that allows users to rent and return cars.
 
 from car import *
@@ -11,7 +11,7 @@ class Dealership(object):
 		self.diesel_cars = []
 		self.hybrid_cars = []
         
-#Populating inventory
+	#Populating inventory
 	
 	def current_stock(self): 
 		for i in range(5):

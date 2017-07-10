@@ -1,4 +1,4 @@
-#CA 3 by Titi Badiya 10052625.
+
 #testing the car functionality
 
 import unittest
